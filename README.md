@@ -45,18 +45,12 @@
 <hr>
 <br>
 
-## 3D Contribution Calendar 📅
-<br>
-<p align='center'>
-<img src="./profile-3d-contrib/profile-night-view.svg">
-</p>
-<hr>
-<br>
+
 
 ## Technology Stack 💻
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 ### Programming Languages 👨‍💻 :
 <br>
