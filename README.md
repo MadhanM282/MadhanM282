@@ -3,16 +3,16 @@
 </p>
 <h1> Hello Fellow < Coders/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40Madhanm282">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
+<img src="https://komarev.com/ghpvc/?username=Madhanm282">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Madhanm282?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Madhanm282.visitor-badge"> -->
 </p>
 <br>
 
@@ -24,7 +24,7 @@
 <br> 
 
 ```
-npx chinmay29hub
+npx Madhanm282
 ```
 
 <hr>
@@ -32,14 +32,14 @@ npx chinmay29hub
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=Madhanm282&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=Madhanm282&show_icons=true&theme=github_dark">
 </p>
 <hr>
 <br>
@@ -47,7 +47,7 @@ npx chinmay29hub
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Madhanm282&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
@@ -133,16 +133,16 @@ npx chinmay29hub
 <a href="mailto:chinmaysonawane57@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/chinmay29hub" target="_blank">
-<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/Madhanm282" target="_blank">
+<img src="https://img.shields.io/badge/Madhanm282-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chinmay-sonawane-38474019a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
+<a href="https://www.reddit.com/user/Madhanm282" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
-<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
+<img src="https://img.shields.io/badge/Madhanm282-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
 </a>&nbsp;&nbsp;
 </p>
 <br>
@@ -217,7 +217,7 @@ npx chinmay29hub
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Madhanm282&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -225,7 +225,7 @@ npx chinmay29hub
 
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Madhanm282/Madhanm282/raw/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
@@ -318,10 +318,10 @@ PHP                      3 repos             ██░░░░░░░░░�
 <hr>
 <br>
 
-## chinmay29hub 2021 📅:
+## Madhanm282 2021 📅:
 <br>
 <p align='center'>
-<img src="chinmay29hub.gif">
+<img src="Madhanm282.gif">
 </p>
 
 <hr>
