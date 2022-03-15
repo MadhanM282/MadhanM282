@@ -51,52 +51,16 @@
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-### Programming Languages 👨‍💻 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/2x/c-programming.png" height=50px/></a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://wordpress.com/"><img src="https://img.icons8.com/plasticine/2x/react.png" height=50px /></a>
 </p>
-<br>
-
-### Web Development 🌐 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
-
-### Frameworks & Libraries 📦 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">&nbsp;&nbsp;
-<!-- <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp; -->
-</p>
-<br>
-
-### Design 🎨 :
-<br>
-<p align='center'>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">&nbsp;&nbsp;
-</p>
-<br>
-
-### IDEs/Editors 👨‍🔧 :
-<br>
-<p align="center">
-<img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
-</p>
-<br>
 
 ### Version Control 🔧 :
 <br>
