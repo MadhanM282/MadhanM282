@@ -8,7 +8,7 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<hr>
+<!-- <hr> -->
 <!-- <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=Madhanm282">&nbsp;&nbsp;&nbsp;&nbsp;
