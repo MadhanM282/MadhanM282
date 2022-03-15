@@ -16,17 +16,6 @@
 </p>
 <br>
 
-## npm package - Profile card 📦 
-<br>
-
-> Run the following command to know more about me
-
-<br> 
-
-```
-npx Madhanm282
-```
-
 <hr>
 <br>
 
