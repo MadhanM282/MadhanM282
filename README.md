@@ -7,16 +7,7 @@
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<hr>
-<br>
-<!-- <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Madhanm282">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Madhanm282?style=social">&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=Madhanm282.visitor-badge"> -->
-</p>
-<br>
 
-<hr>
 <br>
 
 ## Github Contribution Streak 🔥 
