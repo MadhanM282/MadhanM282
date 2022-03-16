@@ -1,6 +1,6 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Govind Singh 👩‍💻</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Madhan Mohan👩‍💻</h1>
 <br>
-<h3 align="center">I'm Govind Singh, a technical enthusiast who doing web development. Passionate to contribute open-source projects and make cool products.</h3>
+<h3 align="center">I'm Madhan Mohan, a technical enthusiast who doing web development. Passionate to contribute open-source projects and make cool products.</h3>
 <br>
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
