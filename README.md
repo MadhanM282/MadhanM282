@@ -8,7 +8,6 @@
 - 🌱 I’m currently doing full-stack web development course from Masai School.
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: Madhanm282@gmail.com
-- 
 
 <br>
 
