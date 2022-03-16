@@ -7,7 +7,8 @@
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently doing full-stack web development course from Masai School.
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: grvrautela90@gmail.com
+- 📫 Reach out to me: Madhanm282@gmail.com
+- 
 
 <br>
 
@@ -31,7 +32,7 @@
 ### 📊 My Github Stats:
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Govind-01&show_icons=true&theme=radical) <a href="https://github.com/govind-01/github-readme-stats"><img alt="Govind Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-01&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhanm282&show_icons=true&theme=radical) <a href="https://github.com/govind-01/github-readme-stats"><img alt="Govind Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanm282&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=govind-01&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
@@ -44,4 +45,4 @@
 
 
 
-[resume]: https://drive.google.com/file/d/1YDFq43uxf3OjazGf2z9lvjSF_GmrBpqu/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1ZS6PeoTAXiTHG6o5gvKwK7u8HFYAF-h0/view?usp=sharing
