@@ -38,10 +38,9 @@
 
 
 ### Lets connect through:
-<a href="https://www.facebook.com/gaurav.rautela.560"><img src="https://img.icons8.com/fluency/2x/facebook-new.png" height=50px/></a>
-<a href="https://twitter.com/grvrautela90"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/govind-singh-81849821b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/gaurav.rautela.560/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png" height=50px/></a>
+<a href="https://twitter.com/madhanmohan6450"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/madhan-mohan-474389158"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/madhan_m_o_h_a_n/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png" height=50px/></a>
 
 
 
