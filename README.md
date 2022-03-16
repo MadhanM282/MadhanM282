@@ -34,7 +34,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhanm282&show_icons=true&theme=radical) <a href="https://github.com/Madhanm282/github-readme-stats"><img alt="Madhanmohan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanm282&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=govind-01&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Madhanm282&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
 
 
