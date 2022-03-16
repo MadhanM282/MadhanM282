@@ -18,11 +18,11 @@
 <p align="left">
     <a> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a><img src="https://img.icons8.com/plasticine/2x/react.png" height=50px /></a>
     <a> <img src="https://cdn.iconscout.com/icon/free/png-48/mongodb-3629612-3032310.png"/> 
-    </a><a> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     
 </p>
 
@@ -32,7 +32,7 @@
 ### 📊 My Github Stats:
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhanm282&show_icons=true&theme=radical) <a href="https://github.com/govind-01/github-readme-stats"><img alt="Govind Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanm282&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhanm282&show_icons=true&theme=radical) <a href="https://github.com/Madhanm282/github-readme-stats"><img alt="Madhanmohan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanm282&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=govind-01&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
