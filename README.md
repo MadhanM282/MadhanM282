@@ -40,7 +40,7 @@
     
     <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Madhanm282"><img alt="Madhanm282's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Madhanm282&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Madhanm282"><img alt="Madhanm282's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Madhanm282&custom_title=MadhanM282's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
