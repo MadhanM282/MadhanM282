@@ -38,8 +38,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Madhanm282&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br>
     
-    <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
    <a href="https://github.com/Madhanm282"><img alt="Madhanm282's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Madhanm282&custom_title=MadhanM282's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
