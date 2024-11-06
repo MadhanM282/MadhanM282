@@ -6,7 +6,7 @@
 
 - ✍ You can find my resume here [Resume]
 - 👨‍💻 You can find my portfolio here [portfolio]
-- 🌱 I’m currently working as a full-stack web developer at ACE TURTLE.
+- 🌱 I’m currently working as web developer at ACE TURTLE.
 - 👯 I’m looking to collaborate on open source
 - 🏫 I’m from Vizag Andhra pradesh
 - 📫 Reach out to me: Madhanm282@gmail.com
